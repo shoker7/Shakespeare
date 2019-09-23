@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/tva_aresenal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="arsenal"/>
+    <TextView
+        android:id="@+id/tva_chealse"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="chealse"/>
+    <TextView
+        android:id="@+id/tva_spurs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="spurs"/>
+    <TextView
+        android:id="@+id/tva_mun"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="mun"/>
+
+</LinearLayout>
